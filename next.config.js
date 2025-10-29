@@ -5,12 +5,6 @@ const nextConfig = {
   images: {
     domains: ['www.svgrepo.com'],
   },
-  eslint: {
-    ignoreDuringBuilds: false,
-  },
-  typescript: {
-    ignoreBuildErrors: false,
-  },
 }
 
 module.exports = nextConfig
